@@ -5,6 +5,8 @@
 ![imgTwo](https://github.com/andarino/bankline-front/blob/main/img/insert-mov.png)
 ![imgThree](https://github.com/andarino/bankline-front/blob/main/img/ver-mov.png)
 
+# PS: I will fix the date format ;-)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
 
 ## Development server
