@@ -1,5 +1,10 @@
 # BanklineApp
 
+## Some images of the project
+![home](https://github.com/andarino/blogpost-Springboot/blob/main/img/home.jpeg)
+![home](https://github.com/andarino/blogpost-Springboot/blob/main/img/home.jpeg)
+![home](https://github.com/andarino/blogpost-Springboot/blob/main/img/home.jpeg)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
 
 ## Development server
